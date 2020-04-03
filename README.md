@@ -35,11 +35,13 @@ _Todos os comandos listados a seguir devem ser executados dentro do terminal._
 
 1. Dentro do diretório da aplicação, execute o comando: `yarn install`, para a instalação dos pacotes.
 
-2. Após a instalação dos pacotes, execute o projeto com o comando: `yarn start`
+2. Altere o IP na api do axios e na conexão do socket para o seu ip local.
 
-3. Com seu celular em mãos, entre na loja de aplicativos e instale o aplicativo do Expo.
+3. Após a instalação dos pacotes e a alteração dos ips, execute o projeto com o comando: `expo start`
 
-4. Abra o aplicativo do Expo no celular e leia o QR Code exibido no navegador.
+4. Com seu celular em mãos, entre na loja de aplicativos e instale o aplicativo do Expo.
+
+5. Abra o aplicativo do Expo no celular e leia o QR Code exibido no navegador.
 
 ## Licença
 
